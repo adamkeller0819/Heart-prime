@@ -1,0 +1,27 @@
+{
+  "concept": "001-island-naming",
+  "created": "2026-09-27",
+  "handoffs": [
+    {
+      "artifact": "plan.md",
+      "from": "adam+meta",
+      "to": "luma",
+      "ts": "2026-09-27T14:47:00-04:00",
+      "note": "plan drafted in chat from Luma's starter; Meta reacted, no changes"
+    },
+    {
+      "artifact": "feedback (chat)",
+      "from": "meta",
+      "to": "adam",
+      "ts": "2026-09-27T14:52:00-04:00",
+      "note": "Meta created a Google Doc in Drive concepts/ but the content write did not land (doc empty); feedback delivered via chat paste"
+    },
+    {
+      "artifact": "feedback-meta.md",
+      "from": "luma",
+      "to": "github",
+      "ts": "2026-09-27T14:55:00-04:00",
+      "note": "bridged verbatim from Meta's chat text"
+    }
+  ]
+}
