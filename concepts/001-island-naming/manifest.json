@@ -22,6 +22,20 @@
       "to": "github",
       "ts": "2026-09-27T14:55:00-04:00",
       "note": "bridged verbatim from Meta's chat text"
+    },
+    {
+      "artifact": "feedback-claude.md",
+      "from": "claude",
+      "to": "drive",
+      "ts": "2026-09-27T14:56:00-04:00",
+      "note": "Claude filed feedback-claude.md as markdown in Drive concepts/ (followed convention); flagged missing 001 subfolder on Drive side"
+    },
+    {
+      "artifact": "feedback-claude.md",
+      "from": "luma",
+      "to": "github",
+      "ts": "2026-09-27T14:58:00-04:00",
+      "note": "bridged verbatim to concepts/001-island-naming/"
     }
   ]
 }
