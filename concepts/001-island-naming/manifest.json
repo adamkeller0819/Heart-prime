@@ -36,6 +36,20 @@
       "to": "github",
       "ts": "2026-09-27T14:58:00-04:00",
       "note": "bridged verbatim to concepts/001-island-naming/"
+    },
+    {
+      "artifact": "feedback (chat)",
+      "from": "gemini",
+      "to": "adam",
+      "ts": "2026-09-27T15:00:00-04:00",
+      "note": "Gemini delivered pick + reasoning in chat; did not file to Drive"
+    },
+    {
+      "artifact": "feedback-gemini.md",
+      "from": "luma",
+      "to": "github",
+      "ts": "2026-09-27T15:01:00-04:00",
+      "note": "bridged verbatim from Gemini's chat text"
     }
   ]
 }
